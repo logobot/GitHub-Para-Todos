@@ -5,7 +5,8 @@ Este es un primer texto para *modificar*, **cambiar** y jugar.
 > Es nuestro arenero personal
 
 Pueden:
-Aca va algo
+Aca va algo 2
+|Tabla1|Tabla2|
 
 - Borrarme
 - Modificarme
