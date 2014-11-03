@@ -7,6 +7,7 @@ Este es un primer texto para *modificar*, **cambiar** y jugar.
 Pueden:
 Aca va algo 2
 |Tabla1|Tabla2|
+![Sugar](https://www.sugarlabs.org/assets/gallery_image_04.png)
 
 - Borrarme
 - Modificarme
